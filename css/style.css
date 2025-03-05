@@ -1,0 +1,17 @@
+body {
+  background: #f0f0f0;
+  font-family: Arial;
+  text-align: center;
+}
+.game {
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+.game img {
+  width: 180px;
+  height: 135px;
+}
